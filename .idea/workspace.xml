@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5131f526-a51b-48c0-a9d1-d5a45fa780b6" name="Changes" comment="just a try">
-      <change afterPath="$PROJECT_DIR$/src/AppletTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AppletTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,13 +37,14 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/trilochna/Downloads/executablejarexample",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BasicLinkedList">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="BasicLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicLinkedList" />
       <module name="BasicJAVA" />
@@ -61,10 +59,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab10ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab10ex1" />
+      <module name="BasicJAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicLinkedList" />
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Lab10ex1" />
+        <item itemvalue="Application.BasicLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658574456293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="just a try">
+      <created>1666447693813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666447693813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
